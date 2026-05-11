@@ -9,5 +9,8 @@ It can:
 - analyze traffic trends
 - visualize traffic patterns
 - predict traffic based on time and vehicles
-<img>image.png</img>
+
+![Traffic System Image][def]
 Author : Tejasvni Pawar
+
+[def]: image.png
