@@ -1,5 +1,5 @@
 # -Traffic-Analysis-Prediction-System
-his project analyzes vehicle traffic patterns using:
+this project analyzes vehicle traffic patterns using:
 - Pandas
 - NumPy
 - Matplotlib
@@ -9,5 +9,5 @@ It can:
 - analyze traffic trends
 - visualize traffic patterns
 - predict traffic based on time and vehicles
-![alt text](image.png)
+<img>image.png</img>
 Author : Tejasvni Pawar
